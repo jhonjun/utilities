@@ -7,6 +7,8 @@
 // @date      2017.08.16
 //
 
+#pragma once
+
 #include <memory>
 
 template <typename T>
